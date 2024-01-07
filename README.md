@@ -1,6 +1,6 @@
 # Basic Blockchain Implementation with Flask
 
-This repository contains a Python-based basic implementation of a blockchain, along with a Flask web application to interact with it.
+This repository contains a Python-based implementation of a blockchain, along with a Flask web application to interact with it.
 
 ## Features
 
@@ -25,10 +25,6 @@ This repository contains a Python-based basic implementation of a blockchain, al
 ## Getting Started
 
 To get started with this project, clone the repository and ensure you have Python and Flask installed. Run the `blockchain.py` script to start the Flask server. You can interact with the blockchain through the defined endpoints using a web browser or tools like Postman.
-
-## Educational Purpose
-
-This project is intended for educational purposes to demonstrate the basic workings of blockchain technology and how it can be integrated with a web application using Flask.
 
 ## Requirements
 
