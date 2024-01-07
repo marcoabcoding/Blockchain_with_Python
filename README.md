@@ -1,4 +1,4 @@
-# Basic Blockchain Implementation with Flask
+# Blockchain Implementation with Flask
 
 This repository contains a Python-based implementation of a blockchain, along with a Flask web application to interact with it.
 
